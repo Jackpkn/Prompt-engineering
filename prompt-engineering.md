@@ -70,3 +70,39 @@
 [FORMAT] Response structure
 [QUALITY] Control measures
 ```
+
+###
+
+_1. Context/Role Setting_
+Tell the AI what perspective to take or what role to assume.
+
+- "You are an experienced financial advisor..."
+- "Acting as a software architect with 10 years experience..."
+- "From the perspective of a high school teacher..."
+
+_2. Task Definition_
+Clearly state what you want the AI to do.
+
+- "Analyze this data and identify trends"
+- "Create a step-by-step guide"
+- "Compare and contrast these options"
+
+_3. Input/Content_
+Provide the specific information the AI needs to work with.
+
+- Raw data, text to analyze, scenarios to consider
+- Background information, constraints, requirements
+
+_4. Output Format_
+Specify how you want the response structured.
+
+- "Provide your answer in bullet points"
+- "Format as a professional email"
+- "Create a table with three columns"
+
+_5. Quality Controls_
+Add instructions to improve accuracy and relevance.
+
+- "Focus on actionable advice"
+- "Include specific examples"
+- "If you're unsure, say so rather than guessing"
